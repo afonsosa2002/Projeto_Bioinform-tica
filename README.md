@@ -1,5 +1,5 @@
 # Projeto_Bioinformatica
-**Estudo da relação entre as características intrínsecas das proteínas e a sua propensão à cristalização
+**Estudo da relação entre as características intrínsecas das proteínas e a sua propensão à cristalização**
 
 Projeto realizado por:
 
